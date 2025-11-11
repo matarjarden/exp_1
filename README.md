@@ -1,2 +1,2 @@
 # exp_1
-lab 2A
+lab 2A- no kanis
